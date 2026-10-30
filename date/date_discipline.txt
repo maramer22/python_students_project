@@ -1,0 +1,8 @@
+10;matematica;Popescu
+12;informatica;Pop
+14;informatica;Andrescu
+15;chimie;Stoica
+16;biologie;Tomescu
+17;romana;Iacob
+18;matematica;Georgescu
+19;informatica;Preda

@@ -1,0 +1,8 @@
+101;Popescu;Andrei
+102;Ionescu;Maria
+1212;Mrr;Njj
+103;Georgescu;Mihai
+104;Vasilescu;Elena
+105;Predescu;Alexandru
+106;Stanescu;Diana
+107;Moldovan;Cristian
